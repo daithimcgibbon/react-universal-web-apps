@@ -1,3 +1,6 @@
+
+https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/
+
 # React SSR Example Application
 
 The application contains several variants, **each in its separate branch**, progressively demonstrating various paradigms for writing [universal](https://medium.com/@mjackson/universal-javascript-4761051b7ae9) JavaScript with [React](https://facebook.github.io/react/), [React Router](https://github.com/rackt/react-router), [Node](https://nodejs.org/en/) and [Express](http://expressjs.com/).
